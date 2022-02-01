@@ -1,0 +1,7 @@
+options(scipen=999)
+
+
+# library(R2WinBUGS)
+# help(package="R2WinBUGS")
+
+work_dir <- "C:/WinBugs_ws"
